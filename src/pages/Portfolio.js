@@ -7,12 +7,12 @@ const Portfolio = () => {
 
       <figure className="work-images">
         <div>
-          <div class="card">
-            <h3>
+          <div class="custom-card">
+            <h4>
               Password Generator
               <br />
               HTML/CSS/JavaScript
-            </h3>
+            </h4>
             <a href="https://github.com/codejoes" target="_blank">
               <img
                 src="./images/password-generator.svg"
@@ -22,12 +22,12 @@ const Portfolio = () => {
           </div>
         </div>
         <div>
-          <div className="card">
-            <h3>
+          <div className="custom-card">
+            <h4>
               Coding Quiz
               <br />
               HTML/CSS/JavaScript
-            </h3>
+            </h4>
             <a href="https://github.com/codejoes" target="_blank">
               <img
                 src="./images/timed-quiz.jpg"
@@ -37,12 +37,12 @@ const Portfolio = () => {
           </div>
         </div>
         <div>
-          <div className="card">
-            <h3>
+          <div className="custom-card">
+            <h4>
               <span>&#169;</span>YFITOPS
               <br />
               HTML/CSS/JS/APIs
-            </h3>
+            </h4>
             <a href="https://qelson.github.io/GroupProject1/" target="_blank">
               <img
                 src="./images/yfitops-image.png"
@@ -52,12 +52,12 @@ const Portfolio = () => {
           </div>
         </div>
         <div>
-          <div className="card">
-            <h3>
+          <div className="custom-card">
+            <h4>
               <span>&#169;</span>Pawz!
               <br />
               Node/Express/MySQL
-            </h3>
+            </h4>
             <a href="https://github.com/codejoes/Pawz" target="_blank">
               <img
                 src="./images/Screenshot 2023-04-13 124858.png"

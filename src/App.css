@@ -169,11 +169,11 @@ article {
   flex-grow: 1;
 } 
 
-.card {
+.custom-card {
   position: relative;
 }
 
-.card h3, .card h2 {
+.custom-card h3, .custom-card h2, .custom-card h4 {
   position: absolute;
   bottom: 10px;
   left: 5px;
@@ -244,7 +244,18 @@ footer {
   color: white;
   clear: left;
   text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
 }
+
+footer img {
+  height: 25px;
+  width: 25px;
+  margin-left: 10px;
+}
+
+
 
 /* Ensures Screen Readability At Less Than 768px */
 
