@@ -7,6 +7,7 @@ import Home from "./pages";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
+import Resume from "./pages/Resume";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
@@ -19,6 +20,7 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/resume" element={<Resume />} />
       </Routes>
       <Footer />
     </Router>
