@@ -8,7 +8,7 @@ const Resume = () => {
       </a>
 
       <ul className="">
-        Front End:
+        Front End: -------------------------------------------------------------
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
@@ -18,8 +18,8 @@ const Resume = () => {
         <li>Bootstrap</li>
       </ul>
 
-      <ul className="">
-        Back End:
+      <ul className="footer-space">
+        Back End: -------------------------------------------------------------
         <li>APIs</li>
         <li>Node</li>
         <li>Express</li>

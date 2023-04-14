@@ -54,6 +54,7 @@
 
 body {
   background-color: var(--background-color);
+  height: 100%
 }
 
 .header {
@@ -294,7 +295,8 @@ footer {
   color: white;
   clear: left;
   text-align: center;
-  position: sticky;
+  position: fixed;
+  left: 0;
   bottom: 0;
   width: 100vw;
 }
@@ -307,6 +309,10 @@ footer img {
 
 footer img:hover {
   opacity: .5;
+}
+
+.footer-space {
+  margin-bottom: 100px;
 }
 
 /* Ensures Screen Readability At Less Than 768px */
