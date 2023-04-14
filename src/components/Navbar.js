@@ -1,16 +1,17 @@
 import React from "react";
-import { Nav, NavLink, NavMenu } from "./NavbarElements";
+import { Nav, NavLink, NavMenu, Title } from "./NavbarElements";
 
 const Navbar = () => {
   return (
     <>
       <Nav>
+        <Title>CodeJoes</Title>
         <NavMenu>
           <NavLink to="/" activeStyle>
             Home
           </NavLink>
           <NavLink to="/about" activeStyle>
-            About
+            About Me
           </NavLink>
           <NavLink to="/portfolio" activeStyle>
             Portfolio

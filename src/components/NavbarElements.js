@@ -7,7 +7,7 @@ export const Nav = styled.nav`
   height: 85px;
   display: flex;
   justify-content: space-between;
-  padding: 0.2rem calc((100vw - 1000px) / 2);
+  padding: 0.2rem calc((100vw - 1750px) / 2);
   z-index: 12;
 `;
 
@@ -49,4 +49,11 @@ export const NavMenu = styled.div`
 white-space: nowrap; */
   @media screen and (max-width: 768px) {
   }
+`;
+export const Title = styled.nav`
+  display: flex;
+  align-items: left;
+  color: #f5d832;
+  font-size: 35px;
+  margin-top: 10px;
 `;
