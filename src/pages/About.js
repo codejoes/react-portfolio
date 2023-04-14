@@ -7,6 +7,9 @@ const About = () => {
 
       <ul>
         <li>
+          <img src="./images/profile-photo.jpg" alt="photo-of-developer" />
+        </li>
+        <li>
           I am a retired Army officer, former Pennsylvania native, and current
           resident of Washington, DC. I am focused on developing my techinical
           acumen to become a javascript-enabled fullstack developer.

@@ -19,6 +19,9 @@ const Navbar = () => {
           <NavLink to="/contact" activeStyle>
             Contact Me
           </NavLink>
+          <NavLink to="/resume" activeStyle>
+            Resume
+          </NavLink>
         </NavMenu>
       </Nav>
     </>
