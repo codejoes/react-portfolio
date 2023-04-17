@@ -2,12 +2,12 @@ import React from "react";
 
 const Portfolio = () => {
   return (
-    <article class="work" id="work">
+    <article className="work" id="work">
       <h2>Work</h2>
 
       <figure className="work-images">
         <div>
-          <div class="custom-card">
+          <div className="custom-card">
             <h4>
               Password Generator
               <br />
