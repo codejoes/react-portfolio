@@ -49,4 +49,4 @@ You may send any additional questions [here](josephscodes@gmail.com)!
 
 [GitHub Repo](https://github.com/codejoes/react-portfolio)
 
-![Screenshot of Website](./images/Screenshot%2023-04-17%105618.png)
+![Screenshot of Website](./images/Screenshot%202023-04-17%20105618.png)
